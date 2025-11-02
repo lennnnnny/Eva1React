@@ -1,8 +1,45 @@
-# Welcome to your Expo app 👋
+# Aplicación React Native con Expo - Evaluación 1
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Esta aplicación móvil fue desarrollada con React Native y Expo, implementando TypeScript, gestión de estado y navegación con Expo Router.
 
-## Get started
+## 🚀 Características
+
+- Desarrollada con **React Native** y **Expo**
+- Configurada completamente en **TypeScript**
+- Navegación implementada con **Expo Router**
+- Sistema de autenticación con validación
+- Gestión de estado usando React Hooks
+- Interfaz de usuario intuitiva
+
+## 📱 Funcionalidades
+
+- **Pantalla de Login**
+  - Campo para Email
+  - Campo para Password (modo seguro)
+  - Validación de contraseña
+  - Mensaje de error si la contraseña es incorrecta
+
+- **Navegación por Tabs**
+  - Tab Home: Pantalla principal con mensaje de bienvenida
+  - Tab Perfil: Muestra el email ingresado en el login
+
+## 🛠️ Tecnologías Utilizadas
+
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- React Hooks (useState, useContext)
+
+## 🎥 Demo en Video
+
+[Ver demostración de la aplicación](AGREGAR_ENLACE_DEL_VIDEO)
+
+## 🧑‍💻 Desarrollo
+
+Este proyecto fue desarrollado como parte de la Evaluación 1 del curso de Desarrollo de Aplicaciones Móviles en CIISA.
+
+## ⚙️ Instrucciones de Uso
 
 1. Install dependencies
 
