@@ -30,10 +30,11 @@ Esta aplicación móvil fue desarrollada con React Native y Expo, implementando 
 - TypeScript
 - Expo Router
 - React Hooks (useState, useContext)
+- Copilot (Debug, Documentació´n)
 
 ## 🎥 Demo en Video
 
-[Ver demostración de la aplicación](AGREGAR_ENLACE_DEL_VIDEO)
+[Ver demostración de la aplicación] https://www.youtube.com/shorts/2j1Tspzvs4Q
 
 ## 🧑‍💻 Desarrollo
 
